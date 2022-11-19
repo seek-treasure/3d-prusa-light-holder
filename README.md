@@ -11,12 +11,12 @@ The holder utilizes a hexagonal hole in the Prusa i3 top Z-axis mount.
 
 ![Hole](/img/HexHole.jpg)
 
-It fits the hole and holds a USB light cable.
+It fits the hole and holds a USB cable.
 
 ![CableInPart](/img/CableInPart.jpg)
 
 
-In my case, a USB cable attaches to a Raspberry PI running Octoprint. I use a simple USB light on the other side of the cable.
+In my case, a USB cable attaches to a Raspberry PI running Octoprint. I use a simple USB light stick on the other side of the cable. Light is on only when the 3D printer is in use.
 
 ![Full view 2](/img/FullView2.jpg)
 
