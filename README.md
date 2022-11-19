@@ -31,7 +31,7 @@ The part prints fine without any supports or brim. I used 0.3mm layer height and
 
 ![Part](/img/Part.jpg)
 
-I attached .STEP files to make it easier to modify to your own cable thickness.
+I attached .STEP files to make it easier to adjust to your own cable thickness if needed. The angle can be changed just by rotating the part in the hex hole, no model modifications required for this.
 
 Also published on
 --
