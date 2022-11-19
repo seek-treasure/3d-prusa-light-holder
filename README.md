@@ -30,3 +30,5 @@ Printing
 The part prints fine without any supports or brim. I used 0.3mm layer height and printed in PLA.
 
 ![Part](/img/Part.jpg)
+
+I attached .STEP files to make it easier to modify to your own cable thickness.
