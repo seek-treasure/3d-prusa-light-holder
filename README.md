@@ -32,3 +32,11 @@ The part prints fine without any supports or brim. I used 0.3mm layer height and
 ![Part](/img/Part.jpg)
 
 I attached .STEP files to make it easier to modify to your own cable thickness.
+
+Also published on
+--
+* [Thingiverse](https://www.thingiverse.com/thing:5641377)
+* [Grabcad](https://grabcad.com/library/prusa-i3-light-holder-1)
+* [Printables](https://www.printables.com/model/320510-prusa-i3-light-holder)
+* [MyMiniFactory](https://www.myminifactory.com/object/3d-print-prusa-i3-light-holder-257316)
+
